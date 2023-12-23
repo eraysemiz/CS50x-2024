@@ -1,0 +1,4 @@
+
+
+bitmapfileheader = metadata dosyası 14 byte
+bitmapinfoheader = 40 byte uzunluğunda
