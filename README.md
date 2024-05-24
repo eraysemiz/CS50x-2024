@@ -1,2 +1,2 @@
-# CS50x-2023
-Harvard CS50x - 2023 Solutions
+# CS50x-2024
+Harvard CS50x - 2024 Solutions
